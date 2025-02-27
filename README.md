@@ -1,0 +1,1 @@
+A custom web server is a web server built exactly the way you want it to work. Instead of using a standard server that comes with many features you might not need, you create your own to handle requests and responses just the way you want. This gives you full control over its behavior and feature
